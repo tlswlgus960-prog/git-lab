@@ -12,3 +12,5 @@ cd 홈으로 이동
 cat 불러오기
 cd $EXERCISE_HOME/git-lab 깃랩으로 이동
 init 폴더 만들기 리파짓토리 만들기
+
+어렵지만 잘 따라가고 있는 것 같습니다.
